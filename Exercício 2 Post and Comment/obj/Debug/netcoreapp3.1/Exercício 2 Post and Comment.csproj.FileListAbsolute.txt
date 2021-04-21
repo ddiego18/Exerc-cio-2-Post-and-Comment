@@ -1,0 +1,13 @@
+C:\Users\ddieg\Desktop\Exercício 2 Post and Comment\Exercício 2 Post and Comment\bin\Debug\netcoreapp3.1\Exercício 2 Post and Comment.exe
+C:\Users\ddieg\Desktop\Exercício 2 Post and Comment\Exercício 2 Post and Comment\bin\Debug\netcoreapp3.1\Exercício 2 Post and Comment.deps.json
+C:\Users\ddieg\Desktop\Exercício 2 Post and Comment\Exercício 2 Post and Comment\bin\Debug\netcoreapp3.1\Exercício 2 Post and Comment.runtimeconfig.json
+C:\Users\ddieg\Desktop\Exercício 2 Post and Comment\Exercício 2 Post and Comment\bin\Debug\netcoreapp3.1\Exercício 2 Post and Comment.runtimeconfig.dev.json
+C:\Users\ddieg\Desktop\Exercício 2 Post and Comment\Exercício 2 Post and Comment\bin\Debug\netcoreapp3.1\Exercício 2 Post and Comment.dll
+C:\Users\ddieg\Desktop\Exercício 2 Post and Comment\Exercício 2 Post and Comment\bin\Debug\netcoreapp3.1\Exercício 2 Post and Comment.pdb
+C:\Users\ddieg\Desktop\Exercício 2 Post and Comment\Exercício 2 Post and Comment\obj\Debug\netcoreapp3.1\Exercício 2 Post and Comment.csprojAssemblyReference.cache
+C:\Users\ddieg\Desktop\Exercício 2 Post and Comment\Exercício 2 Post and Comment\obj\Debug\netcoreapp3.1\Exercício 2 Post and Comment.AssemblyInfoInputs.cache
+C:\Users\ddieg\Desktop\Exercício 2 Post and Comment\Exercício 2 Post and Comment\obj\Debug\netcoreapp3.1\Exercício 2 Post and Comment.AssemblyInfo.cs
+C:\Users\ddieg\Desktop\Exercício 2 Post and Comment\Exercício 2 Post and Comment\obj\Debug\netcoreapp3.1\Exercício 2 Post and Comment.csproj.CoreCompileInputs.cache
+C:\Users\ddieg\Desktop\Exercício 2 Post and Comment\Exercício 2 Post and Comment\obj\Debug\netcoreapp3.1\Exercício 2 Post and Comment.dll
+C:\Users\ddieg\Desktop\Exercício 2 Post and Comment\Exercício 2 Post and Comment\obj\Debug\netcoreapp3.1\Exercício 2 Post and Comment.pdb
+C:\Users\ddieg\Desktop\Exercício 2 Post and Comment\Exercício 2 Post and Comment\obj\Debug\netcoreapp3.1\Exercício 2 Post and Comment.genruntimeconfig.cache
